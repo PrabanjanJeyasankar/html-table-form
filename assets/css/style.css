@@ -1,1 +1,16 @@
-/* This is Style Script */
+.NameTable, tr,th,td{
+    border: solid 1px #000;
+    border-collapse: collapse;
+}
+.Table-Heading{
+    background-color: rgb(255, 0, 0);
+    color:white;
+}
+.Second-row{
+    background-color: black;
+    color:white;
+}
+.Third-row{
+    background-color: rgb(194, 130, 255);
+    color: yellow;
+}
